@@ -107,7 +107,7 @@ print("""
 
 """)
 sjundesvar = input("Svar: ")
-if sjundesvar == "A" or sjundesvar == "a":
+if sjundesvar == "B" or sjundesvar == "b":
     print("Korrekt!")
     points += 1 
 else:
